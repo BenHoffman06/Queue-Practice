@@ -63,7 +63,6 @@ public class Main {
             current = s.pop();
             q.add(current);
         }
-//        r.Print();
         q = r;
     }
 }
